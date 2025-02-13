@@ -20,4 +20,4 @@ This repository contains reusable templates and examples for various DevOps tool
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/DevOps-Templates.git
+   git clone https://github.com/maygititc/DevOps-Templates.git
